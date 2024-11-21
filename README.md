@@ -2,7 +2,7 @@
 
 
 
-[![NPM](https://img.shields.io/github/license/tvlemes/project-web-scraping)](https://github.com/tvlemes/project-web-scraping/blob/main/LICENSE)
+[![NPM](https://img.shields.io/github/license/tvlemes/server-http-python)](https://github.com/tvlemes/server-http-python/blob/main/LICENSE)
 
 <!-- TABLE OF CONTENTS --> 
 <details open="open">
