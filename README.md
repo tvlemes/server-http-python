@@ -56,7 +56,7 @@ O arquivo <b>server.py</b> é o arquivo principal que roda o Server.
 
 <!-- configurações -->
 ## Configurações
-As configurações do <b>IP</b> e <b>Porta</b> que o Server rodará está localizado nas variáveis <b>ip</b> <b>porta</b>.
+As configurações do <b>IP</b> e <b>Porta</b> que o Server rodará está localizado nas variáveis <b>ip</b> e <b>porta</b>.
 
 ```
 ...
@@ -77,6 +77,6 @@ $ python server.py
 ## Sobre
 
 Autor: Thiago Vilarinho Lemes <br>
-LinkedIn <a href="https://www.linkedin.com/in/thiago-v-lemes-b1232727">Thiago Lemes</a><br>
-Home <a href="http://thiagolemes.free.nf">Thiago Vilarinho Lemes</a><br>
+LinkedIn <a href="https://www.linkedin.com/in/thiago-v-lemes-b1232727" target="_blank">Thiago Lemes</a><br>
+Home <a href="http://thiagolemes.free.nf" target="_blank">Thiago Vilarinho Lemes</a><br>
 e-mail: contatothiagolemes@gmail.com | lemes_vilarinho@yahoo.com.br
