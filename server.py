@@ -3,7 +3,7 @@ import socketserver
 import os
 
 # Defina o diretório onde os arquivos serão servidos
-diretorio = "C:\\Users\\Thiago\\Desktop\\html_esp32"  # Substitua pelo diretório que você quer
+diretorio = "C:\\Users\\Thiago\\Desktop\\server_http\\firmware"  # Substitua pelo diretório que você quer
 if not os.path.exists(diretorio):
     raise FileNotFoundError(f"O diretório especificado não existe: {diretorio}")
 
